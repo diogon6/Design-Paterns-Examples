@@ -1,0 +1,7 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
