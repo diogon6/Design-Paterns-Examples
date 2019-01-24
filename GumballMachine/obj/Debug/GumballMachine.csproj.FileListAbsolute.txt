@@ -1,0 +1,7 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\bin\Debug\GumballMachine.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\bin\Debug\GumballMachine.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\bin\Debug\GumballMachine.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\obj\Debug\GumballMachine.csprojAssemblyReference.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\obj\Debug\GumballMachine.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\obj\Debug\GumballMachine.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\GumballMachine\obj\Debug\GumballMachine.pdb

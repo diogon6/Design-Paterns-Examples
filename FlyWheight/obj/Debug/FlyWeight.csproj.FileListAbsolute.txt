@@ -1,0 +1,6 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\bin\Debug\FlyWheight.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\bin\Debug\FlyWheight.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\bin\Debug\FlyWheight.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\obj\Debug\FlyWheight.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\FlyWheight\obj\Debug\FlyWheight.pdb
