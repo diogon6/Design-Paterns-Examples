@@ -1,0 +1,6 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
