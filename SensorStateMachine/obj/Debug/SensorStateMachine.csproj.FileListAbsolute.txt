@@ -1,0 +1,7 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\bin\Debug\SensorStateMachine.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\bin\Debug\SensorStateMachine.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\bin\Debug\SensorStateMachine.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\obj\Debug\SensorStateMachine.csprojAssemblyReference.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\obj\Debug\SensorStateMachine.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\obj\Debug\SensorStateMachine.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\SensorStateMachine\obj\Debug\SensorStateMachine.pdb
