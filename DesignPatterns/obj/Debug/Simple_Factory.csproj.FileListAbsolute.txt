@@ -1,0 +1,7 @@
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\obj\Debug\Simple_Factory.csprojAssemblyReference.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\obj\Debug\Simple_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Diogo Nobrega\Desktop\Diversos\UNI\DIS\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
